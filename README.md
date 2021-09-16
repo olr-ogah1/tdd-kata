@@ -5,7 +5,8 @@
 [![Jest Testing Framework](https://img.shields.io/badge/testing%20framework-Jest-C21325.svg?logo=Jest)][3]
 [![Yarn Package Manager](https://img.shields.io/badge/package%20manager-Yarn-2C8EBB.svg?logo=Yarn)][4]
 
-A kata starter project (skeleton) to practice test-driven development.
+This is my first kata to practice test-driven development.
+The kata is: 
 
 ## Prerequisites
 
